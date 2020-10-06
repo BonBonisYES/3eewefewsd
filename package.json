@@ -1,0 +1,12 @@
+{
+  "name": "ferbotiq",
+  "version": "1.0.0",
+  "description": "Test bot for YouTube",
+  "main": "index.js",
+  "author": "Ferotiq",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "quick.db": "^7.1.1"
+  }
+}
